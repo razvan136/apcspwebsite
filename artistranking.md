@@ -1,3 +1,9 @@
+---
+title: Artist Ranking
+layout: default
+nav_order: 1
+---
+
 # Artist Ranking
 ## How the Billboard Artist 100 stacks up against me
 

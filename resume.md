@@ -1,3 +1,9 @@
+---
+title: Resume
+layout: default
+nav_order: 2
+---
+
 ## Experience
 
 ### **AI Task Force** | *SLVUSD*

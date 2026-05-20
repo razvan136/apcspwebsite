@@ -1,3 +1,9 @@
+---
+title: What is Lorem Ipsum?
+layout: default
+nav_order: 3
+---
+
 # What is Lorem Ipsum?
 Lorem ipsum is dummy text used in design and publishing. It helps people see what a page will look like before the real words are added.
 Designers use it to test layout, font size, and spacing. Since it does not have a normal meaning, it does not distract readers from the design.
